@@ -1,5 +1,11 @@
 ## Hi there 👋
 
+The name's Emil. Nice to meet ya!
+
+Interests include retro technology, video games, and hockey.
+
+I'm also known to be spending too much time fiddling with my Emacs config.
+
 <!--
 **emilknievel/emilknievel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
